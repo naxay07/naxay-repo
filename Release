@@ -1,0 +1,8 @@
+Origin: naxay07
+Label: naxay07's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo with my favorite tweaks to get legacy iOS devices up and running quickly

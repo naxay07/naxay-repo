@@ -1,0 +1,14 @@
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Version: 112.0
+Architecture: iphoneos-arm
+Description: AppSync Unified for all iOS versions 5 and up. Redebbed from Karen's repo
+Maintainer: naxay07 <admin@naxay.studio>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Filename: debs/ai.akemi.appsyncunified_112.0_iphoneos-arm.deb
+Size: 54122
+MD5sum: 9551c8103a8692f91285122bf6a447f3
+SHA1: 2bd6ee0e8116e7a08884c682db73f23504457c42
+SHA256: 5126d9d393e6bbba654306ec23ac2f4b691f82d213e23c7c84ca49c56b13d8c4
